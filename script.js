@@ -1,5 +1,5 @@
 function promo() {
-  alert("🎉 Promo Spesial! Diskon 30% untuk semua produk minggu ini!");
+  alert("🎉 ayo gelot");
 }
 
 function tambahKeranjang(namaProduk) {
